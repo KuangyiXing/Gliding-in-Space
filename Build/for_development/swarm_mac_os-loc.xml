@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>/Users/Jasmine/Downloads/Assignment_1_2015/swarm_mac_os.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/Jasmine/Downloads/Assignment_1_2015/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/Jasmine/Downloads/Assignment_1_2015/bindings/gl.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/Jasmine/Downloads/Assignment_1_2015/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/Jasmine/Downloads/Assignment_1_2015/bindings/gl.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/Jasmine/Downloads/Assignment_1_2015/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/Jasmine/Downloads/Assignment_1_2015/bindings/glu.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 23" >
+      <vfs_project>/Users/Jasmine/Downloads/Assignment_1_2015/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/Jasmine/Downloads/Assignment_1_2015/bindings/glu.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/Jasmine/Downloads/Assignment_1_2015/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/Jasmine/Downloads/Assignment_1_2015/Sources/Student_Packages/vehicle_task_type.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/Users/Jasmine/Downloads/Assignment_1_2015 2 2 stage c/swarm_mac_os.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/Jasmine/Downloads/Assignment_1_2015/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/Jasmine/Downloads/Assignment_1_2015/Sources/Student_Packages/vehicle_task_type.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/Jasmine/Downloads/Assignment_1_2015/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/Jasmine/Downloads/Assignment_1_2015/Sources/Student_Packages/vehicle_task_type.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/Users/Jasmine/Downloads/Assignment_1_2015 2 2 stage c/swarm_mac_os.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/Jasmine/Downloads/Assignment_1_2015/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/Jasmine/Downloads/Assignment_1_2015/Sources/Student_Packages/vehicle_task_type.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>/Users/Jasmine/Downloads/Assignment_1_2015 2 2 stage c/swarm_mac_os.gpr</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >/Users/Jasmine/Downloads/Assignment_1_2015/swarm_mac_os.gpr</vfs_project>
+      <vfs_file >/Users/Jasmine/Downloads/Assignment_1_2015/bindings/gl.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >/Users/Jasmine/Downloads/Assignment_1_2015/swarm_mac_os.gpr</vfs_project>
+      <vfs_file >/Users/Jasmine/Downloads/Assignment_1_2015/bindings/gl.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >/Users/Jasmine/Downloads/Assignment_1_2015/swarm_mac_os.gpr</vfs_project>
+      <vfs_file >/Users/Jasmine/Downloads/Assignment_1_2015/bindings/glu.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_project >/Users/Jasmine/Downloads/Assignment_1_2015/swarm_mac_os.gpr</vfs_project>
+      <vfs_file >/Users/Jasmine/Downloads/Assignment_1_2015/bindings/glu.ads</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
