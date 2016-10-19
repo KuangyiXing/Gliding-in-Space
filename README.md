@@ -463,4 +463,4 @@ throttle.
 
 ## Demo
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/r4CfhY0yVoI" frameborder="0" allowfullscreen></iframe>
+[Swarm-demo](https://youtu.be/r4CfhY0yVoI)
